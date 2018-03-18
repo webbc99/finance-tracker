@@ -11,6 +11,9 @@ ruby "2.5.0"
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.4'
+gem 'devise'
+gem 'twitter-bootstrap-rails'
+gem 'devise-bootstrap-views'
 # minitest for testing, explicit version as it's not working for controller tests
 # https://github.com/seattlerb/minitest/issues/730
 gem 'minitest', '5.10.3'
