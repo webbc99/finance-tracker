@@ -14,6 +14,7 @@ gem 'rails', '~> 5.1.4'
 gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
+gem 'stock_quote'
 # minitest for testing, explicit version as it's not working for controller tests
 # https://github.com/seattlerb/minitest/issues/730
 gem 'minitest', '5.10.3'
